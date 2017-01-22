@@ -1,0 +1,12 @@
+{
+    "name": "ben/bowling-kata",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Kata\\Bowling\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^5.7"
+    }
+}
